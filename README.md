@@ -1,0 +1,2 @@
+# Friends
+Basic Friends Plugin
