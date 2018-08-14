@@ -12,6 +12,7 @@ import me.bobcatsss.friends.utils.Friends;
 public class Core extends JavaPlugin {
 	
 	private Map<String, Friends> f = new HashMap<>();
+	//test
 	
 	@Override
 	public void onEnable() {
